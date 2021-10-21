@@ -14,12 +14,9 @@
 <!-- TODO: Make technologies links takes you to repositories -->
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![Styled component Badge](https://img.shields.io/badge/-styled--components-DB7093?style=for-the-badge&labelColor=black&logo=styled-components&logoColor=DB7093)](#)
-
-
-<!--[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
-[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)-->
 
 <!--
 ### Tutorials
@@ -46,19 +43,9 @@
 
 ![Visitantes](https://visitor-badge.glitch.me/badge?page_id=michaelmlcavalcanti)
 
-<details>
-<summary>
-  Mais fatos sobre mim:
-</summary>
-
 <br >
 
 Eu gosto de compartilhar conhecimento, ajudar pessoas e conhecer novos conteúdos.
-
-<!-- #### What is CoderOne?
-CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world. 
--->
-
 
 #### Github Status
 
