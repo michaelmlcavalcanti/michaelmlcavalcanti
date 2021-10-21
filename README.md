@@ -2,7 +2,7 @@
 
 :mailbox: Contatos:
 <br>
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-cavalcanti-177690218/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat&labelColor=blue&logo=instagram&logoColor=white)](https://instagram.com/michaelmlcavalcanti) [![E-Mail Badge](https://img.shields.io/badge/EMail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:michaelmlcavalcanti@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-cavalcanti-177690218/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat&labelColor=blue&logo=instagram&logoColor=white)](https://instagram.com/michaelmlcavalcanti) [![G-Mail Badge](https://img.shields.io/badge/Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:michaelmlcavalcanti@gmail.com)
 
 - 🔭 Buscando uma oportunidade na área de desenvolvimento de software.
 #### Tecnologias:
